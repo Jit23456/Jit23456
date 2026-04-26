@@ -1,14 +1,24 @@
 <h1 align="center">Hi 👋, I'm Surajit Chakraborty</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Backend+Developer;Django+%7C+REST+APIs;Building+Scalable+Web+Apps;Open+to+Internships&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Backend+Developer;Django+%7C+REST+APIs;Building+Scalable+Applications;Open+to+Opportunities&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <a href="https://portfolio-pi-one-hgpnm3xjtw.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="mailto:surajitchakraborty823@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/surajit-chakraborty-158047273/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🎓 B.Tech CSE @ Narula Institute of Technology
 * 💻 Python Backend Developer (Django, REST APIs)
@@ -18,7 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,js,react,mysql,git,github,azure" />
@@ -30,11 +40,11 @@
 
 ### 🔹 EduSpark Platform
 
-💡 Full-stack EdTech platform with AI assistant & secure system
+💡 AI-powered EdTech platform with authentication, secure system & Azure deployment
 
-* 🔐 Authentication + Google Sign-In
-* 🤖 AI Assistant (OpenAI API)
-* ☁️ Deployed on Azure
+* 🔐 Role-based authentication + Google Sign-In
+* 🤖 AI Assistant using OpenAI API
+* ☁️ Cloud deployed (Azure)
 
 ---
 
@@ -46,16 +56,18 @@
 
 ### 🔹 Sales Data System
 
-📈 Data processing pipeline + Power BI dashboards
+📈 Data processing pipeline with SQL optimization & dashboards
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jit23456&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Jit23456&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jit23456&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -68,15 +80,18 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Snake
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/surajit-chakraborty-158047273/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:surajitchakraborty823@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Jit23456/Jit23456/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jit23456&color=blue&style=for-the-badge" />
 </p>
 
 ---
@@ -84,3 +99,4 @@
 <p align="center">
   ⭐ <i>Focused on building scalable backend systems & real-world applications</i>
 </p>
+
