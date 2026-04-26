@@ -1,12 +1,42 @@
-- 👋 Hi, I’m @Jit23456
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Surajit</h1>
+<h3 align="center">Aspiring Software Developer | AI & ML Enthusiast</h3>
 
-<!---
-Jit23456/Jit23456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me
+- 🎓 Student at Narula Institute of Technology  
+- 🤖 Certified in Machine Learning (NPTEL)  
+- 💻 Interested in AI, Web Development & Problem Solving  
+- 🌱 Currently learning: Full Stack Development  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Python, Java, C++
+- 🌐 Web: HTML, CSS, JavaScript
+- ⚙️ Tools: Git, GitHub, VS Code
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jit23456&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jit23456&layout=compact" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jit23456" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+- LinkedIn: (add your link)
+- Email: (your email)
+
+---
+
+⭐ From [Jit23456](https://github.com/Jit23456)
