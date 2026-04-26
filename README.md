@@ -1,25 +1,28 @@
 <h1 align="center">Hi 👋, I'm Surajit Chakraborty</h1>
-<h3 align="center">Python Backend Developer | Django & REST APIs | Building Scalable Web Applications 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Backend+Developer;Django+%7C+REST+APIs;Building+Scalable+Web+Apps;Open+to+Internships&center=true&width=500&height=45">
+</p>
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 B.Tech CSE student at Narula Institute of Technology
-* 💻 Python Backend Developer with hands-on experience in Django & REST APIs
-* ☁️ Deployed real-world applications on Microsoft Azure
-* 🤖 Built AI-integrated systems using OpenAI APIs
-* 📈 Strong in Data Structures, Problem Solving & Backend Optimization
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+* 🎓 B.Tech CSE @ Narula Institute of Technology
+* 💻 Python Backend Developer (Django, REST APIs)
+* ☁️ Deployed apps on Microsoft Azure
+* 🤖 Built AI systems using OpenAI APIs
+* 📈 Strong in DSA & backend optimization
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Python, JavaScript
-* **Backend:** Django, Flask, REST APIs
-* **Frontend:** React, HTML, CSS
-* **Database:** MySQL, SQLite
-* **Cloud & Tools:** Microsoft Azure, Git, GitHub, Postman
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,js,react,mysql,git,github,azure" />
+</p>
 
 ---
 
@@ -27,46 +30,57 @@
 
 ### 🔹 EduSpark Platform
 
-A scalable EdTech platform with AI assistant, secure content delivery, and online exam system
+💡 Full-stack EdTech platform with AI assistant & secure system
 
-* 🔐 Role-based authentication + Google Sign-In
-* 🤖 AI assistant using OpenAI API
+* 🔐 Authentication + Google Sign-In
+* 🤖 AI Assistant (OpenAI API)
 * ☁️ Deployed on Azure
 
 ---
 
-### 🔹 Expense Tracker (Flask)
+### 🔹 Expense Tracker
 
-A web application for managing personal expenses with authentication and data visualization
+📊 Flask-based app for managing personal expenses
 
 ---
 
-### 🔹 Sales Data Processing System
+### 🔹 Sales Data System
 
-Python-based data pipeline with SQL optimization and Power BI dashboards
+📈 Data processing pipeline + Power BI dashboards
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jit23456&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jit23456&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Jit23456&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-* ⭐ 5-Star Python on HackerRank
-* 🧠 Solved 100+ DSA problems
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jit23456&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [surajitchakraborty823@gmail.com](mailto:surajitchakraborty823@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/surajit-chakraborty-158047273/
+<p align="center">
+  <a href="https://www.linkedin.com/in/surajit-chakraborty-158047273/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:surajitchakraborty823@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-⭐ *Focused on building real-world backend systems and continuously improving as a developer*
+<p align="center">
+  ⭐ <i>Focused on building scalable backend systems & real-world applications</i>
+</p>
