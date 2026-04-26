@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://portfolio-pi-one-hgpnm3xjtw.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge&logo=vercel">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-black?style=for-the-badge&logo=vercel">
   </a>
   <a href="mailto:surajitchakraborty823@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
@@ -40,11 +40,11 @@
 
 ### 🔹 EduSpark Platform
 
-💡 AI-powered EdTech platform with authentication, secure system & Azure deployment
+💡 AI-powered EdTech platform with authentication & Azure deployment
 
 * 🔐 Role-based authentication + Google Sign-In
 * 🤖 AI Assistant using OpenAI API
-* ☁️ Cloud deployed (Azure)
+* ☁️ Cloud deployed on Azure
 
 ---
 
@@ -74,9 +74,8 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jit23456&theme=tokyonight" />
-</p>
+* ⭐ 5-Star Python on HackerRank
+* 🧠 Solved 100+ DSA problems
 
 ---
 
@@ -91,7 +90,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jit23456&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Jit23456&style=for-the-badge&color=blue" />
 </p>
 
 ---
